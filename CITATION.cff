@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "Bu kodu kullanıyorsanız lütfen aşağıdaki şekilde atıfta bulunun."
+type: software
+title: "Multiaxial Fatigue Life Prediction: XGBoost & SHAP Analysis"
+abstract: >
+  XGBoost regresyon modeli ve SHAP analizi kullanılarak metalik malzemelerde
+  çok eksenli yorulma ömrünün tahmin edilmesi ve yükleme yolu kategorilerine
+  göre malzeme parametrelerinin göreli öneminin incelenmesi.
+authors:
+  - family-names: "Soyadı"
+    given-names: "Adı"
+    affiliation: "Bölüm, Üniversite, Şehir, Türkiye"
+    email: "ornek@universite.edu.tr"
+date-released: "2025-01-01"
+license: MIT
+repository-code: "https://github.com/KULLANICI_ADI/REPO_ADI"
+keywords:
+  - multiaxial fatigue
+  - machine learning
+  - XGBoost
+  - SHAP
+  - material parameters
+  - loading path
+  - fatigue life prediction
+references:
+  - type: article
+    title: "A deep learning dataset for metal multiaxial fatigue life prediction"
+    authors:
+      - family-names: "Chen"
+        given-names: "S."
+      - family-names: "Bai"
+        given-names: "Y."
+      - family-names: "Zhou"
+        given-names: "X."
+      - family-names: "Yang"
+        given-names: "A."
+    journal: "Scientific Data"
+    volume: 11
+    issue: 1
+    pages: "1027"
+    year: 2024
+    doi: "10.1038/s41597-024-03862-4"
