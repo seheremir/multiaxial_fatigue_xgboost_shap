@@ -11,9 +11,6 @@
 
 **Makale:** *Metalik Malzemelerde Çok Eksenli Yorulma Ömrünün Tahmininde XGBoost ve SHAP Analizi: Yükleme Yolu Kategorilerine Göre Malzeme Parametrelerinin Göreli Önemi*
 
-[Yazar Adı Soyadı] · [Bölüm, Üniversite] · 2025
-
-[📄 Makale](#makale) · [🚀 Hızlı Başlangıç](#hızlı-başlangıç) · [📊 Sonuçlar](#sonuçlar) · [📁 Repo Yapısı](#repo-yapısı)
 
 </div>
 
